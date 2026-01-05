@@ -28,20 +28,28 @@ git branch -M main
 git remote add origin https://github.com/<your-username>/Code-Alpha-Tasks.git
 git push -u origin main
 
-***
 
+---
+
+```bash
 Recommended repository structure
 Organize each task in its own folder:
 
 Code-Alpha-Tasks/
+├── TASK-1-Hangman_Game/
+│   ├── Hangman_Game.py
+│   ├── README.md
+│
+├── TASK-2-Stock-Portfolio-Tracker/
+│   ├── Stock-Portfolio-Tracker.py
+│   ├── README.md
+│   └── requirements.txt
+│
+├── TASK-3-Task-Automation/
+│   ├── Task-Automation.py
+│   └── README.md
+│
+└── TASK-4-Chatbot/
+    ├── Chatbot.py
+    └── README.md
 
-- TASK-2-Stock-Portfolio-Tracker/
-    - main.py
-    - README.md
-    - requirements.txt
-- TASK-3-Task-Automation/
-    - task_automation.py
-    - README.md
-- TASK-4-Basic-Chatbot/
-     - chatbot.py
-     - README.md
