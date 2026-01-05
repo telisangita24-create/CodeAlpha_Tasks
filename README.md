@@ -27,21 +27,20 @@ git commit -m "Initial commit: add 4 projects (Task 1, 2, 3, 4)"
 git branch -M main
 git remote add origin https://github.com/<your-username>/Code-Alpha-Tasks.git
 git push -u origin main
+---
 
+Recommended repository structure
+Organize each task in its own folder:
 
-Code_Alpha_Tasks/
-│
-├── TASK 2-Stock-Portfolio-Tracker/
-│   ├── main.py
-│   └── README.md
-│
-├── TASK 3-Task-Automation/
-│   ├── task_automation.py
-│   └── README.md
-│
-├── TASK 4-Basic-Chatbot/
-│   ├── chatbot.py
-│   └── README.md
-│
-└── README.md (this file)
+Code-Alpha-Tasks/
 
+- TASK-2-Stock-Portfolio-Tracker/
+    - main.py
+    - README.md
+    - requirements.txt
+- TASK-3-Task-Automation/
+    - task_automation.py
+    - README.md
+- TASK-4-Basic-Chatbot/
+     - chatbot.py
+     - README.md
