@@ -20,3 +20,12 @@ Each project is self-contained and demonstrates core programming concepts with s
 mkdir Code-Alpha-Tasks
 cd Code-Alpha-Tasks
 git init
+3. Add files and folders for each project (examples below).
+4. Commit and push:
+```bash
+git add .
+git commit -m "Initial commit: add 3 projects (Task 2, 3, 4)"
+git branch -M main
+git remote add origin https://github.com/your-username/Code-Alpha-Tasks.git
+git push -u origin main
+
