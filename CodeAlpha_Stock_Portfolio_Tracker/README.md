@@ -26,7 +26,6 @@ Session storage: Streamlit session_state
 ### Requirements
 Python 3.8 or higher
 Internet connection (for fetching live prices)
-'''bash
 Install dependencies:
 
 pip install -r requirements.txt
