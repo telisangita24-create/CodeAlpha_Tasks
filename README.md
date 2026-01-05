@@ -15,18 +15,8 @@ Each project is self-contained and demonstrates core programming concepts with s
 
 ### 1. Create a new GitHub repository named `Code-Alpha-Tasks`.
 
-### Locally:
-
-Part 3: Create Project & Initialize Git
-mkdir Code_Alpha_Tasks
-cd Code_Alpha_Tasks
+### 2. Locally:
+```bash
+mkdir Code-Alpha-Tasks
+cd Code-Alpha-Tasks
 git init
-
-Part 4: Add, Commit & Push to GitHub
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/your-username/Code_Alpha_Tasks.git
-git push -u origin main
-
-
