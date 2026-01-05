@@ -15,7 +15,7 @@ Each project is self-contained and demonstrates core programming concepts with s
 
 ### 1. Create a new GitHub repository named `Code-Alpha-Tasks`.
 
-### 2. Locally:
+ 2. Locally:
 ```bash
 mkdir Code-Alpha-Tasks
 cd Code-Alpha-Tasks
