@@ -5,6 +5,7 @@ Each project is self-contained and demonstrates core programming concepts with s
 
 ## Projects included
 
+- **TASK 1** - Hangman Game
 - **TASK 2** — Stock Portfolio Tracker
 - **TASK 3** — Task Automation with Python Scripts
 - **TASK 4** — Basic Chatbot
