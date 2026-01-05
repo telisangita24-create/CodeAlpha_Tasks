@@ -29,7 +29,8 @@ git remote add origin https://github.com/<your-username>/Code-Alpha-Tasks.git
 git push -u origin main
 
 
----
+***
+## Quick setup (create repo & push)
 
 
 ```bash
@@ -53,29 +54,3 @@ Code-Alpha-Tasks/
 └── TASK-4-Chatbot/
     ├── Chatbot.py
     └── README.md
-
-
-
-
-✅ README.md for TASK-1 (Hangman Game)
-
-📄 TASK-1-Hangman-Game/README.md
-
-# TASK 1: Hangman Game
-
-## Description
-This is a simple **text-based Hangman Game** built using Python.  
-The player guesses a hidden word one letter at a time. Incorrect guesses are limited.
-
-## Features
-- Predefined list of words
-- Maximum 6 incorrect guesses
-- Console-based interaction
-- Beginner-friendly logic
-
-## Technologies Used
-- Python
-
-## How to Run
-```bash
-python Hangman_Game.py
