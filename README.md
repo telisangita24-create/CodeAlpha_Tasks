@@ -10,14 +10,14 @@ Projects included:-
 
 ## Quick setup (create repo & push)
 1. Create a new GitHub repository named 'Code-Alpha-Tasks'.
-2. Locally:
+2. Locally:\n
 '''bash
 mkdir Code-Alpha-Tasks
 cd Code-Alpha-Tasks
 git init
 3. Add files and folders for each project (examples below).
 4. Commit and push:
-'''bash
+'''bash\n
 git add .
 git commit -m "Initial commit: add 3 projects (Task 2, 3, 4)"
 git branch -M main
