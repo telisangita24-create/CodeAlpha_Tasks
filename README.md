@@ -29,3 +29,16 @@ git branch -M main
 git remote add origin https://github.com/your-username/Code-Alpha-Tasks.git
 git push -u origin main
 
+Part 1: Create Project & Initialize Git
+mkdir Code_Alpha_Tasks
+cd Code_Alpha_Tasks
+git init
+
+Part 2: Add, Commit & Push to GitHub
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/your-username/Code_Alpha_Tasks.git
+git push -u origin main
+
+
